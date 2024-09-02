@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main () {
+	int man = 23;
+	int amn = 40;
+	int sum;
+
+	sum = 23 + 40;
+
+	printf("The total sum equals %/d", sum);
+
+	return 0;
+}
